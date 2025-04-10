@@ -1,0 +1,6 @@
+# .gitignore
+.venv/
+.env
+.ssh/
+tempCodeRunnerFile.python
+__pycache__/
